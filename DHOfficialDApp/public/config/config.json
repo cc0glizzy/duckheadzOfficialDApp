@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x965377dceB5fA116599A080A3C0FF4dE02F8BF64",
+  "SCAN_LINK": "https://etherscan.io/address/0x965377dceb5fa116599a080a3c0ff4de02f8bf64",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Duckheadz Official",
+  "SYMBOL": "QUACKZ",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/duckheadz-official",
+  "SHOW_BACKGROUND": true
+}
